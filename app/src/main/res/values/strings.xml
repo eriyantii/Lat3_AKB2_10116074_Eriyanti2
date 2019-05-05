@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="ExtraTranslation">Lat3_AKB2_10116074_Eriyanti</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">MYHOME</string>
+    <string name="slide_1_desc">Temukan beberapa hal tentang ku disini!</string>
+
+    <string name="slide_2_title">MY PLAYLIST</string>
+    <string name="slide_2_desc">butuh rekomendasi lagu atau video?temukan di Music dan Video </string>
+
+    <string name="slide_3_title">FIND ME</string>
+    <string name="slide_3_desc">Temukan aku diberbagai social media</string>
+
+    <string name="home">Home</string>
+    <string name="daily">Daily Activty</string>
+    <string name="gallery">Gallery</string>
+    <string name="mv">Music and Video</string>
+    <string name="profile">Profile</string>
+
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lat3_akb2_10116074_eriyanti">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Gallery"></activity>
+        <activity android:name=".BottomNavigation" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Music" />
+        <activity android:name=".Daily_Activity" />
+        <activity android:name=".Home" />
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".slide3" />
+        <activity android:name=".slide2" />
+        <activity android:name=".slide1" />
+        <activity android:name=".walktrough" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="     android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
